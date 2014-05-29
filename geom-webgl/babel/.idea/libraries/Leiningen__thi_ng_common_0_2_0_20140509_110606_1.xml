@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: thi.ng/common:0.2.0-20140509.110606-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/thi/ng/common/0.2.0-SNAPSHOT/common-0.2.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
