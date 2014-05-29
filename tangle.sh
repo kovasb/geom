@@ -8,7 +8,7 @@ for i in $@; do
     FILES="$FILES \"$i\""
 done
 
-emacs -Q --batch \
+/Applications/Emacs.app/Contents/MacOS/Emacs -Q --batch \
     --eval \
     "(progn
      (require 'org)(require 'ob)(require 'ob-tangle)(require 'ob-lob)
